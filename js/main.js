@@ -463,7 +463,7 @@ color: rgb(244,167,89);
 let styleContent = `
 color: rgb(30,152,255);
 `;
-let title1 = "無名の主页";
+let title1 = "星云の主页";
 let title2 = `
  _____ __  __  _______     ____     __
 |_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /
